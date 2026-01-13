@@ -1,0 +1,62 @@
+[
+  {
+    "id": 999,
+    "type": "sell",
+    "exmoCode": "TEST-ABCD-1234-EFGH-5678",
+    "giveAmount": 10000,
+    "receiveAmount": 10000,
+    "fullName": "Тестов Тест Тестович",
+    "phone": "+7 (999) 888-77-66",
+    "bank": "Тинькофф",
+    "status": "pending",
+    "createdAt": "2026-01-13T15:05:52.356290"
+  },
+  {
+    "id": 999,
+    "type": "sell",
+    "exmoCode": "TEST-ABCD-1234-EFGH-5678",
+    "giveAmount": 10000,
+    "receiveAmount": 10000,
+    "fullName": "Тестов Тест Тестович",
+    "phone": "+7 (999) 888-77-66",
+    "bank": "Тинькофф",
+    "status": "pending",
+    "createdAt": "2026-01-13T15:06:11.656901"
+  },
+  {
+    "id": 999,
+    "type": "sell",
+    "exmoCode": "TEST-ABCD-1234-EFGH-5678",
+    "giveAmount": 10000,
+    "receiveAmount": 10000,
+    "fullName": "Тестов Тест Тестович",
+    "phone": "+7 (999) 888-77-66",
+    "bank": "Тинькофф",
+    "status": "pending",
+    "createdAt": "2026-01-13T15:08:29.278787"
+  },
+  {
+    "id": 999,
+    "type": "sell",
+    "exmoCode": "TEST-ABCD-1234-EFGH-5678",
+    "giveAmount": 10000,
+    "receiveAmount": 10000,
+    "fullName": "Тестов Тест Тестович",
+    "phone": "+7 (999) 888-77-66",
+    "bank": "Тинькофф",
+    "status": "pending",
+    "createdAt": "2026-01-13T15:15:49.495761"
+  },
+  {
+    "id": 999,
+    "type": "sell",
+    "exmoCode": "TEST-ABCD-1234-EFGH-5678",
+    "giveAmount": 10000,
+    "receiveAmount": 10000,
+    "fullName": "Тестов Тест Тестович",
+    "phone": "+7 (999) 888-77-66",
+    "bank": "Тинькофф",
+    "status": "pending",
+    "createdAt": "2026-01-13T15:27:58.321381"
+  }
+]
